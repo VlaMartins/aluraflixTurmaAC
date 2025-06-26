@@ -5,6 +5,19 @@ body{
 }
 
 header{
-     border-bottom: solid 2px rgb(74, 192, 232);
+     border-bottom: solid 2px rgb(70, 143, 239);
      padding: 20px;
+     font-size: 32px;
+     color: cyan;
+}
+
+h1{
+     color: rgb(135, 206, 241);
+     font-family: sans-serif;
+}
+
+p{
+     /* text-align: center; */
+     color: rgb(241, 151, 235);
+     font-style: italic;
 }
