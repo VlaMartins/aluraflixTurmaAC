@@ -1,4 +1,5 @@
 body{
-     background-color: darkblue;
-     color: azure;
+     background-color: rgb(2, 2, 68); /*cor do fundo */
+     color: azure; /* cor da letra, cor da fonte */
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
