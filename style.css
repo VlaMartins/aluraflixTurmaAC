@@ -1,5 +1,10 @@
 body{
      background-color: rgb(2, 2, 68); /*cor do fundo */
      color: azure; /* cor da letra, cor da fonte */
-     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     margin: 0px;
+}
+
+header{
+     border-bottom: solid 2px rgb(74, 192, 232);
+     
 }
