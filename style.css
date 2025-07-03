@@ -21,3 +21,11 @@ p{
      color: rgb(241, 151, 235);
      font-style: italic;
 }
+
+section{
+     background: black;
+     padding-top: 80px;
+     padding-bottom: 80px;
+     display: flex;
+     justify-content: center;
+}
